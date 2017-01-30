@@ -1,12 +1,16 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+date: 2017-01-01
+img: Language_Window.png
+img_front: Language.png
+alt: alt-text
+imgur:
+project-date: January 2017
+client: NA
+category: Programming Languages
+title: Programming Skills
+git_link: NA
+description: I deal with large scale genomic data, applying varying statistical methods, as such it's a natural choice for me to work in R (or RNoteBooks nowadays...). R gives me the flexibility to run code anywhere that R is installed, rapidly develop/ prototype methods, and even tie it all together into a robust application using Shiny. I'm a highly competent R programmer, and now more of a functional programmer, than OO. I'm very familiar with a lot of genomic (especially human) databases hosted by the EBI, Broad, Ensembl, all of which utilise SQL in some way. If R is my bread, then Bash is my butter - the majority of sequencing data I analyse requires some form of preprocessing or normalisation before it's in a usable form, and most of tools that provide that functionality are C++ or Java based, so elegant bash scripting is essential. Visualisation is another key element of my day to day working, and I'm extremely familiar with the ggplot2 framework in R, designing and implementing informative plots at publication quality.
+win_footer: <a href="https://github.com/AndrewSkelton">Github Profile</a>
 ---

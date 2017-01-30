@@ -1,12 +1,11 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+date: 2017-01-01
+img: ExpDes.png
+img_front: ExpDes_Window.png
+alt: alt-text
+title: Experimental Design
+description: I've been lead analyst on a number of projects, and a key responsibility of mine has been experimental design, in which I'm consulted by PIs, Professors, and PhD students. Typically these are experiments for array studies, and high throughput RNA/miRNA/DNA sequencing. One recent project saw a problem in the number of sample types, and the number of unique samples that could be sequenced at one (multiplexing limit). I designed a function to simulate the experimental parameters and fit a model that was full rank, based on the studies hypothesis. This process allowed the samples to be allocated the optimum groups, to absorb for between batch variance in the model design. The project code is linked below.    
+win_footer: <a href="https://github.com/AndrewSkelton/experimental_design_sim">Github Project</a>
 ---

@@ -1,12 +1,16 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+date: 2016-01-01
+img: Exome.png
+img_front: Exome_Window.png
+alt: alt-text
+imgur: http://i.imgur.com/4c4EbfA.png
+project-date: January 2016
+client: Prof. Sophie Hambleton (Newcastle University/NHS)
+category: Computational Diagnostics
+title: Diagnostic Exome Sequencing
+git_link: https://github.com/AndrewSkelton/PID-WES-GATK3.4-SGE
+description: Pediatric patients with complex Primary Immunodeficiency (PID) are seen at the Great North Children's hospital in Newcastle, where typically they're screened for a number of known genetic variants that marker various sub-classifications of PID conditions. Often there are cases where genetic screens show no definitive diagnosis, in which the patient, and in some cases family members are exome sequenced in house. I've designed and implemented the analysis pipeline consisting of 34 families, and 95 singleton, managing over 200 samples. The analysis pipeline can deal with samples from different sequencers, from different chemistries, and from different pedigrees elegantly. This system also implements sanity checks for inferred gender, and relatedness checks within pedigrees. The system is built on the foundations of GATK 3.4, and is optimised to run on Sun of GridEngine (SoGE). The analysis allows for incremental batches of samples to be added, with an average of 9 samples per month (45GB compressed raw data) coming in.
+win_footer: <a href="http://i.imgur.com/4c4EbfA.png">Poster</a> | <a href="https://github.com/AndrewSkelton/PID-WES-GATK3.4-SGE">Github Project</a> | Client - Prof. Sophie Hambleton (Newcastle University,NHS) | Category - Computational Diagnostics 
 ---

@@ -1,12 +1,9 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+img: Pub_Window.png
+img_front: Pub.png
+alt: alt-text
+title: Publications
+description: <ul class="list-inline item-details"><li><a href="http://stm.sciencemag.org/content/7/307/307ra154">Human IFNAR2 Deficiency Lessons for Antiviral Immunity</a></li><li><a href="http://www.jbc.org/content/early/2016/12/12/jbc.M116.756601">Cytokine-Induced MMP13 Expression in Human Chondrocytes is dependent on Activating Transcription Factor 3 (ATF3) regulation</a></li><li><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148024">Leptin and Pro-Inflammatory Stimuli Synergistically Upregulate MMP-1 and MMP-3 Secretion in Human Gingival Fibroblasts.</a></li><li><a href="http://bmcmedgenet.biomedcentral.com/articles/10.1186/s12881-015-0254-2">Expression Analysis of the Osteoarthritis Genetic Susceptibility Locus Mapping to an Intron of the MCF2L Gene and Marked by the Polymorphism rs11842874</a></li> <li><a href="http://www.tandfonline.com/doi/full/10.3109/03008207.2016.1168409">The first international workshop on the epigenetics of osteoarthritis</a></li></ul>
 ---
